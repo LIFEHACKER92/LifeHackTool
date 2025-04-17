@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LIFEHACKER92/LifeHackTool/static/css/main.f855e6bc.css",
+    "main.js": "/LIFEHACKER92/LifeHackTool/static/js/main.e9dcdde6.js",
+    "static/js/453.a3855040.chunk.js": "/LIFEHACKER92/LifeHackTool/static/js/453.a3855040.chunk.js",
+    "index.html": "/LIFEHACKER92/LifeHackTool/index.html",
+    "main.f855e6bc.css.map": "/LIFEHACKER92/LifeHackTool/static/css/main.f855e6bc.css.map",
+    "main.e9dcdde6.js.map": "/LIFEHACKER92/LifeHackTool/static/js/main.e9dcdde6.js.map",
+    "453.a3855040.chunk.js.map": "/LIFEHACKER92/LifeHackTool/static/js/453.a3855040.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e9dcdde6.js"
+  ]
+}
